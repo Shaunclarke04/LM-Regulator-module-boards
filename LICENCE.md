@@ -1,4 +1,4 @@
-# Copyright © 2026 Your Name
+# Copyright © 2026 Shaun Clarke
 ## CC BY-NC-SA 4.0
 
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.  
