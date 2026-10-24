@@ -82,9 +82,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "../../gerber/out")
 		)
 	)
 	(footprint "MountingHole:MountingHole_2.1mm"
@@ -212,7 +212,7 @@
 		)
 		(property "Value" "VIN"
 			(at 0 4.92 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "f8c29cec-1380-4d64-8b5b-728616a7bc3e")
 			(effects
 				(font
@@ -2194,7 +2194,7 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "LM317 - rev 3.0\nshaunclarke.co.uk"
+	(gr_text "LM317 - rev 3.1\nshaunclarke.co.uk"
 		(at 130.5 116 90)
 		(layer "F.SilkS")
 		(uuid "6c1c1d57-ba6a-4e3f-a432-dc8f091ee4e0")
